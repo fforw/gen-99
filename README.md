@@ -1,3 +1,4 @@
-# Simple Starter
+# gen-99
 
-Simple JS build starter for simple, client-only demos.
+Intersection experiment. A list of polygons starting out with full screen is intersected iteratively in smaller 
+rectangle-ish or triangles and filled randomly from a palette. An intermediary step is highlighted with a fat line. 
